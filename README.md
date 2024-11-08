@@ -38,7 +38,9 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 - Preprocessing for Machine Learning in Python
 
 -----------------------
-Feel free to connect with me on [![LinkedIn](https://imageurl.com/logo.png)](https://www.linkedin.com/in/phamtieuquyen-nguyen/)
+Feel free to connect with me:
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/phamtieuquyen-nguyen/)
 [Email Me](mailto:tieuquyen0694@gmail.com)
 
 
