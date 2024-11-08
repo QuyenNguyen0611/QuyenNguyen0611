@@ -36,3 +36,10 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 - Forecasting in R
 - Time Series Analysis in R
 - Preprocessing for Machine Learning in Python
+
+-----------------------
+Feel free to connect with me on [![LinkedIn](https://imageurl.com/logo.png)](https://www.linkedin.com/in/phamtieuquyen-nguyen/)
+[Email Me](mailto:tieuquyen0694@gmail.com)
+
+
+
