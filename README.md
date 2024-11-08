@@ -41,6 +41,7 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 Feel free to connect with me:
 
 [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)](https://www.linkedin.com/in/phamtieuquyen-nguyen/)
+
 [Email Me](mailto:tieuquyen0694@gmail.com)
 
 
