@@ -22,20 +22,32 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 -----------------------
 **Professional Certifications**
 
-**IBM Certifications**
-- Introduction to Data Analytics
-- Data Analysis with Python
-- Data Visualization with Python
-- Databases and SQL for Data Science with Python
-- Python Project for Data Science
-- Excel Basics for Data Analysis
-- Python for Data Science, AI & Development
+**IBM Data Analyst Certifications**
 
 **DataCamp Certifications**
+- Introduction to Data Engineering
+- Preprocessing for Machine Learning in Python
+- Intermediate to Predictive Analytics in Python
+- Introduction to Predictive Analytics in Python
+- Supervised Learning with scikit-learn
+- Joining Data with pandas
+- Data Manipulation with pandas
+- Python Toolbox
+- Data Types in Python
+- Introduction to Functions in Python
+- Introduction to Data Science in Python
+- Intermediate to Python
+- Introduction to Python
 - ARIMA Models in R
 - Forecasting in R
 - Time Series Analysis in R
-- Preprocessing for Machine Learning in Python
+- Intermediate to R
+- Introduction to R
+- Data Manipulation in SQL
+- Joining Data in SQL
+- Intermediate to SQL
+- Introduction to SQL
+
 
 -----------------------
 Feel free to connect with me:
