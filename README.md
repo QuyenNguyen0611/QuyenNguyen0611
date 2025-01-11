@@ -18,6 +18,8 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 - **Machine Learning:** Hands-on experience with machine learning and deep learning model development for classification and predictive analytics
   
 - **Microsoft Office Suite:** Advanced in Excel, Word, and PowerPoint for data analysis, reporting, and presentations
+  
+- **Tools: ** Tableau, IBM Cognos, Google Looker Studio, and MySQL
 
 -----------------------
 **Professional Certifications**
