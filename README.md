@@ -24,7 +24,7 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 -----------------------
 **Professional Certifications**
 
-**IBM Data Analyst Certifications**
+- [[IBM Data Analyst Certification]](https://www.linkedin.com/feed/update/urn:li:activity:7272256100735848448/)
 
 **DataCamp Certifications**
 - Introduction to Data Engineering
