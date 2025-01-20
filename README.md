@@ -22,6 +22,11 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 - **Tools:** Tableau, IBM Cognos, Google Looker Studio, and MySQL
 
 -----------------------
+**Projects**
+1. Assessment of diversity and gender equality in Operations Research
+2. Sales and Customer Dashboard
+3. Sales Analysis
+-----------------------
 **Professional Certifications**
 
 - [[IBM Data Analyst Certification]](https://www.coursera.org/account/accomplishments/professional-cert/1M5BN55OGEGU?utm_source=ln&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
