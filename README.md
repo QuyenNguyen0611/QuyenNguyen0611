@@ -30,12 +30,12 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 - Analyzed geographical diversity and gender representation in OR
 - Tools: VOSviewer, Python
   
-3. [Sales and Customer Dashboard](https://github.com/QuyenNguyen0611/Tableau-Sales-and-Customer-Dashboard)
+2. [Sales and Customer Dashboard](https://github.com/QuyenNguyen0611/Tableau-Sales-and-Customer-Dashboard)
 - Created two interactive dashboards designed to analyze and present key business metrics.
 - Analyzed sales trends, customer behavior, and product performance, providing actionable insights for better decision-making.
 - Tools: Tableau
   
-5. [Sales Analysis](https://github.com/QuyenNguyen0611/Sales-Analysis)
+3. [Sales Analysis](https://github.com/QuyenNguyen0611/Sales-Analysis)
 - Conducted data cleaning to ensure accuracy and consistency, addressing missing values and removing outliers.
 - Performed exploratory data analysis (EDA) to uncover key insights into buyer demographics, sales trends, and product performance.
 - Developed visualizations to showcase findings, highlighting sales distribution, buyer preferences, and potential marketing strategies.
