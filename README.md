@@ -40,6 +40,11 @@ I am a data enthusiast passionate about uncovering insights that drive strategic
 - Performed exploratory data analysis (EDA) to uncover key insights into buyer demographics, sales trends, and product performance.
 - Developed visualizations to showcase findings, highlighting sales distribution, buyer preferences, and potential marketing strategies.
 - Tools: Python
+
+4. [Blinkit Sales Analysis](https://github.com/QuyenNguyen0611/Blinkit-Analysis)
+- Cleaned and standardized data by removing inconsistencies and formatting datasets for analysis.
+- Utilized Pivot Tables and Excel Functions to summarize key sales metrics and evaluate performance.
+- Designed an interactive dashboard with visual insights using charts and graphs to present findings effectively.
   
 -----------------------
 **Professional Certifications**
